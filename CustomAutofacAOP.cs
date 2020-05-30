@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace AutoFacAop
 {
+  /// <summary>
+  /// 定义AOP  继承IInterceptor
+  /// </summary>
   public class CustomAutofacAOP : IInterceptor
   {
     public void Intercept(IInvocation invocation)
