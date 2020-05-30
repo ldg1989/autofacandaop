@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LDG\\Source\\Repos\\AutoFacAop\\AutoFacAop.csproj": {}
+    "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LDG\\Source\\Repos\\AutoFacAop\\AutoFacAop.csproj": {
+    "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LDG\\Source\\Repos\\AutoFacAop\\AutoFacAop.csproj",
+        "projectUniqueName": "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj",
         "projectName": "AutoFacAop",
-        "projectPath": "C:\\Users\\LDG\\Source\\Repos\\AutoFacAop\\AutoFacAop.csproj",
+        "projectPath": "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj",
         "packagesPath": "C:\\Users\\LDG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LDG\\Source\\Repos\\AutoFacAop\\obj\\",
+        "outputPath": "F:\\githubcode\\autofacandaop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
