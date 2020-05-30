@@ -1,0 +1,38 @@
+2020-05-30 23:07:23,234 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:07:23,255 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:09:27,657 [5] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:09:27,681 [5] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:10:34,225 [9] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:10:34,255 [9] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:13:25,242 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:13:25,276 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:13:36,142 [10] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:13:36,211 [10] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:13:36,225 [10] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:13:36,236 [10] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:21:57,424 [11] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:21:57,519 [11] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:22:07,699 [10] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:22:07,715 [10] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:22:07,748 [10] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:22:07,762 [10] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:22:07,779 [10] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:22:07,794 [10] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:23:25,384 [5] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:23:25,472 [5] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:23:33,731 [11] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:23:33,741 [11] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:23:33,763 [11] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:23:33,774 [11] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:23:33,786 [11] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:23:33,793 [11] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:24:21,626 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:24:21,675 [4] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:24:27,293 [10] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:24:27,323 [10] ERROR AutoFacAop.Controllers.WeatherForecastController - 123123123123
+2020-05-30 23:24:35,052 [4] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:24:35,066 [4] INFO  AutoFacAop.Controllers.HomeController - ======HomeController Get()======
+2020-05-30 23:24:35,082 [4] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:24:35,096 [4] INFO  AutoFacAop.A - autofac -aop 答应
+2020-05-30 23:24:35,111 [4] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
+2020-05-30 23:24:35,167 [4] INFO  AutoFacAop.TestServiceA - 这是TestServiceA打印的lo
