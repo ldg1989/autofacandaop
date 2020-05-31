@@ -11,6 +11,20 @@
           "lib/netstandard2.1/Autofac.dll": {}
         }
       },
+      "Autofac.Configuration/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Microsoft.Extensions.Configuration": "2.2.0",
+          "Microsoft.Extensions.Configuration.Binder": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Autofac.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Autofac.Configuration.dll": {}
+        }
+      },
       "Autofac.Extensions.DependencyInjection/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2010,6 +2024,24 @@
         "lib/netstandard2.1/Autofac.dll",
         "lib/netstandard2.1/Autofac.pdb",
         "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Autofac.Configuration/5.1.0": {
+      "sha512": "Qcob6niJdxxWT1i2is6u+LucqTgzQXjKU9L4WnTc/HXZ0Dy/ok8LaSPMW3zcxV7z/ED7TqbXRlhNNYHYMm0qxA==",
+      "type": "package",
+      "path": "autofac.configuration/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.configuration.5.1.0.nupkg.sha512",
+        "autofac.configuration.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.Configuration.dll",
+        "lib/net461/Autofac.Configuration.pdb",
+        "lib/net461/Autofac.Configuration.xml",
+        "lib/netstandard2.0/Autofac.Configuration.dll",
+        "lib/netstandard2.0/Autofac.Configuration.pdb",
+        "lib/netstandard2.0/Autofac.Configuration.xml"
       ]
     },
     "Autofac.Extensions.DependencyInjection/6.0.0": {
@@ -6628,6 +6660,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Autofac.Configuration >= 5.1.0",
       "Autofac.Extensions.DependencyInjection >= 6.0.0",
       "Autofac.Extras.DynamicProxy >= 5.0.0",
       "Castle.Core >= 4.4.1",
@@ -6676,6 +6709,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Autofac.Configuration": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          },
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[6.0.0, )"

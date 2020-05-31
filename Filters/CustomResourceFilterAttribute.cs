@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace AutoFacAop
 {
     /// <summary>
-    /// 自定义的资源Filter
+    /// 自定义的资源Filter  缓存
     /// </summary>
     public class CustomResourceFilterAttribute : Attribute, IResourceFilter
     {
@@ -26,7 +26,7 @@ namespace AutoFacAop
                 var cachedValue = _Cache[_cacheKey] as ViewResult;
                 if (cachedValue != null)
                 {
-                    context.Result = cachedValue;
+                    context.Result = cachedValue;//短路器
                 }
             }
         }

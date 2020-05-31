@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kBbPob8E/pKS0xNajGPUY3sBL5jk4V1uNVkbv2zEm/ZdzbSLYMpdgfLxoP0g140tUTgK9bHyhP9Zd7s5oz5qjw==",
+  "dgSpecHash": "/HZtem3JFATcSmZahfvoN1Fi5NjIthGV29t/9jNfntU/Am3u5RVVSsSQ1shSfmM3cxgG2n1cltKZG5o+djOP/w==",
   "success": true,
   "projectFilePath": "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LDG\\.nuget\\packages\\autofac\\5.1.0\\autofac.5.1.0.nupkg.sha512",
+    "C:\\Users\\LDG\\.nuget\\packages\\autofac.configuration\\5.1.0\\autofac.configuration.5.1.0.nupkg.sha512",
     "C:\\Users\\LDG\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\LDG\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",
     "C:\\Users\\LDG\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

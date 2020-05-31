@@ -28,6 +28,23 @@ namespace AutoFacAop
     void Show();
   }
 
+
+  public class TestServiceA_1 : ITestServiceA
+  {
+    private readonly ILogger<TestServiceA> _logger = null;
+    public TestServiceA_1(ILogger<TestServiceA> logger)
+    {
+      _logger = logger;
+    }
+
+    public void Show()
+    {
+      _logger.LogInformation("这是TestServiceA打印的log");
+      Console.WriteLine("这是TestServiceA打印的log");
+    }
+  }
+
+
   public class TestServiceA : ITestServiceA
   {
     private readonly ILogger<TestServiceA> _logger = null;
