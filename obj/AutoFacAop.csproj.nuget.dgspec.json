@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj": {}
+    "D:\\github\\autofacandaop\\AutoFacAop.csproj": {}
   },
   "projects": {
-    "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj": {
+    "D:\\github\\autofacandaop\\AutoFacAop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj",
+        "projectUniqueName": "D:\\github\\autofacandaop\\AutoFacAop.csproj",
         "projectName": "AutoFacAop",
-        "projectPath": "F:\\githubcode\\autofacandaop\\AutoFacAop.csproj",
-        "packagesPath": "C:\\Users\\LDG\\.nuget\\packages\\",
-        "outputPath": "F:\\githubcode\\autofacandaop\\obj\\",
+        "projectPath": "D:\\github\\autofacandaop\\AutoFacAop.csproj",
+        "packagesPath": "C:\\Users\\64148\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\autofacandaop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\LDG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\64148\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

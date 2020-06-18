@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoFacAop.Common;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +15,11 @@ namespace AutoFacAop
   {
     public static void Main(string[] args)
     {
+
+      var s = EnumExtensions.GetDescription(VType.NotConsidering);
+
+
+
       CreateHostBuilder(args).Build().Run();
     }
 
